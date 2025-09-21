@@ -1,3 +1,6 @@
 [submodule "src/grihf-frontend_capstone_starter_code"]
 	path = src/grihf-frontend_capstone_starter_code
 	url = ./src/grihf-frontend_capstone_starter_code
+[submodule "test_med_app"]
+	path = test_med_app
+	url = https://github.com/iyeme-dev/test_med_app
